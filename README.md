@@ -11,8 +11,9 @@ A small cryptotracker App i wrote while i was learning Kotlin.
 * Kotlin, i just started learning Kotlin three days ago :)
 * Refreshed the basics in Kotlin like
   * RecylcerView
-  * working with JSON (GSON)
+  * Working with JSON (GSON)
   * Glide
+  * Volley
   * CardView/Layouts
 
 ## Credits:
